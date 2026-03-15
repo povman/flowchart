@@ -1,0 +1,4 @@
+flowchart
+*.o
+*.out
+build/
